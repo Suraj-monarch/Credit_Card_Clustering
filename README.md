@@ -107,3 +107,12 @@ credit-card-clustering/
 
 *Built as a portfolio project demonstrating end-to-end data science: cleaning → EDA → unsupervised ML → business insights → BI dashboard.*
 
+<img width="1919" height="1197" alt="Screenshot 2026-05-02 093919" src="https://github.com/user-attachments/assets/39207a7d-7c23-41e8-8a17-9ca26ee12d78" />
+
+
+<img width="1919" height="1196" alt="Screenshot 2026-05-02 093936" src="https://github.com/user-attachments/assets/68cc5a37-e38b-482d-a1f9-943212aacbfc" />
+
+
+<img width="1918" height="1199" alt="Screenshot 2026-05-02 093954" src="https://github.com/user-attachments/assets/d1978824-150e-430c-9b9a-118e2db0d734" />
+
+
